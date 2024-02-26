@@ -1,5 +1,5 @@
 # Hand Gesture Game Controller
-
+![Hand Gesture Game Controller](image.png)
 ## Overview
 The Hand Gesture Game Controller project revolutionizes gaming by enabling players to interact with games using hand gestures instead of traditional keyboards. By leveraging computer vision techniques and advanced hand tracking algorithms, this system interprets hand movements and translates them into game controls.
 
